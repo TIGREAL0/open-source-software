@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 4: Log File Analyzer
-# Author: Ayush Pandey | Reg No: 24BCE11356
+# Author: Goraksh Nistane | Reg No: 24BCE10939
 # Course: Open Source Software | OSS NGMC Capstone Project
 # Description: Reads a log file line by line, counts keyword
 #              matches, prints the last 5 matching lines,
