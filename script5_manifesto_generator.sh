@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 5: Open Source Manifesto Generator
-# Author: Ayush Pandey | Reg No: 24BCE11356
+# Author: Goraksh Nistane | Reg No: 24BCE10939
 # Course: Open Source Software | OSS NGMC Capstone Project
 # Description: Interactively asks the user three questions
 #              and composes a personalised open-source
